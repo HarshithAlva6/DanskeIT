@@ -1,0 +1,31 @@
+1. NPF GDPR Screen changes(Adding 3 columns to gemini)
+2. SIGN contract between company and Customer(bisadm)
+3. Marketing membership union consent 48(bisadm)
+4. SAS360 Setup for new input file having different record lengths(Copybooks)
+5. LegInfo for different priority customers(Gemini)
+6. ZXCNOT00 SI call to replace table TANMODNINGER entries(SI) - ZVC00600
+7. Adding TKUND address for Agent
+8. Screen changes to add 'Hent CPR' field in KK03.
+	Have to not show/add message for Hent CPR field for Norwegian customers
+9. SAG check 'S' activitytype to prevent new LPIR case.
+10. AML - A4 must overrule A1 and A2 in Norway - "ON HOLD"
+11. New consent - Full functionality for NG Norway customers - 84958750000, 35958750000, 01036144900(CPR), 01012000681(CPR)
+12. AML - Create LPIR case when PEP registration go from NEJ, Blank, POT to TID.(waiting)
+13. Create VKKFRI table and server modules.
+14. Modify API to fetch fritext and historical data.
+15. Junk values in VKKLEG - Simple solution.
+16. Saldo Correction - React Project
+17. Adding new Relations EJUK, EAES, ASSE, SEAT and their weekly screening.
+18. Creating 24 interface modules for Java developers to work with mainframes.
+19. Risk Score MOdel 2.0 for CPR Customers - create LPIR case for 'Mellem'.
+20. Risk Score MOdel 2.0 for Entities - Batch module and 85 screen changes reflected in KKGXFORE.
+21. Creating Validation Module KKVSAM01, and adding it to KKGARELN.
+22. IE11 Exit Gemini and Netstyr Bugs.
+
+
+
+
+
+
+
+
